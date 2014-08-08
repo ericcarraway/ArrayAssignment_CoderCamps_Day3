@@ -1,0 +1,25 @@
+Requirements / Features for Array Assignment
+CoderCamps - Week 1 - Day 3
+
+
+*  sanity-check button to make sure the HTML is connected to the JS file
+
+*  input box to add an item to an array
+*  option to display in an alert box
+*  option to display in a div
+
+*  "show me" input box shows the contents of the array in the same input box after submitting
+
+*  provide a way to clear the input field
+
+*  display an item in the array by selecting its index number
+*  option to display this item in an alert box
+*  option to display this item in a div
+
+*  option to show only the odd numbered (index number) items
+
+----
+TODO:
+display the even numbered items
+
+clean-up the interface / css
